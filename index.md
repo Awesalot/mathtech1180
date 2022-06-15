@@ -19,7 +19,7 @@ You can use the following link to view it: [Syllabus](https://github.com/Awesalo
 Textbook:
 [Linear Algebra and Probability For Computer Science Applications](https://github.com/Awesalot/mathtech1180/blob/gh-pages/Ernest%20Davis%2C%20Linear%20Algebra%20and%20Probability%20for%20Computer%20Science%20Applications%2C%20CRC%20Press%2C%202012.pdf)
 
-For some revision： 
+Revision： 
 [Linear Algebra and Probability For Computer Science Applications](https://github.com/Awesalot/mathtech1180/blob/gh-pages/Errata%20-%20Ernest%20Davis%2C%20Linear%20Algebra%20and%20Probability%20for%20Computer%20Science%20Applications%2C%20CRC%20Press%2C%202012.pdf)
 
 ### Class Timing and Location: 
@@ -56,6 +56,7 @@ If you need to talk to Prof. Dube send him an email to set-up a zoom call
  Quizzes (10%) 
  
  Both  Programming Assignments  and Problem Sets should  submit at Gradecope.
+ 
  More details: [Problem Sets](https://brightspace.nyu.edu/d2l/lms/news/main.d2l?ou=199679).
  [Programming Assignments](https://campuswire.com/c/G3C43F47A/feed/35)
  
