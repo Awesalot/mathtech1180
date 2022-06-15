@@ -46,7 +46,7 @@ If you need to talk to Prof. Dube send him an email to set-up a zoom call
  Final Exam (20%)  
  Quizzes (10%) 
  
- #### Late Policy  :
+#### Late Policy  :
  
 For every day that the submission is late, 10% is deducted from the grade.
 
