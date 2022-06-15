@@ -6,11 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Course Code: CSCI-GA 1180 
 
-Instructor: Parijat Dube <pd2216@nyu.edu>
+Instructor: Parijat Dube (<pd2216@nyu.edu>)
 
-Graders: Adidev Vinaik<av3034@nyu.edu> and Yi Yang<yy3731@nyu.edu>
+Graders: Adidev Vinaik (<av3034@nyu.edu>) and Yi Yang (<yy3731@nyu.edu>)
 
-Tutor: Carl Ye< <jy3695@nyu.edu>
+Tutor: Carl Ye (<jy3695@nyu.edu>)
 
 ### Class Timing and Location 
 
