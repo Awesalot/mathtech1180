@@ -48,4 +48,7 @@ If you need to talk to Prof. Dube send him an email to set-up a zoom call
  
  #### Late Policy  :
  
- 
+For every day that the submission is late, 10% is deducted from the grade.
+1 day late: 10% deducted
+2 days late: 20% deducted, and so on...
+Beyond 4 days after the due date, no more submissions will be accepted. In other words, the max deduction is 40%.
