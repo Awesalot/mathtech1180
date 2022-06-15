@@ -38,4 +38,10 @@ Carl: Tuesdays and Thursdays 10:15am-12:15pm
 
 If you need to talk to Prof. Dube send him an email to set-up a zoom call  
 
+### Rubric  :
 
+ Programming Assignments (25%)  
+ Problem Sets (25%) 
+ Mid Term (20%)  
+ Final Exam (20%)  
+ Quizzes (10%) 
