@@ -17,7 +17,10 @@ B. Probability and Statistics
 You can use the following link to view it: [Syllabus](https://brightspace.nyu.edu/content/enforced/199679-SU22_CSCI-GA_1180_12W_001/syllabus_MTCS2022-summer.pdf)
 
 Textbook:
-Linear Algebra and Probability For Computer Science Applications: [Linear Algebra and Probability For Computer Science Applications](https://github.com/Awesalot/mathtech1180/blob/gh-pages/Ernest%20Davis%2C%20Linear%20Algebra%20and%20Probability%20for%20Computer%20Science%20Applications%2C%20CRC%20Press%2C%202012.pdf)
+[Linear Algebra and Probability For Computer Science Applications](https://github.com/Awesalot/mathtech1180/blob/gh-pages/Ernest%20Davis%2C%20Linear%20Algebra%20and%20Probability%20for%20Computer%20Science%20Applications%2C%20CRC%20Press%2C%202012.pdf)
+
+For some revision： 
+[Linear Algebra and Probability For Computer Science Applications](https://github.com/Awesalot/mathtech1180/blob/gh-pages/Errata%20-%20Ernest%20Davis%2C%20Linear%20Algebra%20and%20Probability%20for%20Computer%20Science%20Applications%2C%20CRC%20Press%2C%202012.pdf)
 
 ### Class Timing and Location: 
 
