@@ -16,10 +16,10 @@ B. Probability and Statistics
 
 You can use the following link to view it: [Syllabus](https://github.com/Awesalot/mathtech1180/blob/gh-pages/syllabus_MTCS2022-summer.pdf)
 
-Textbook:
+Textbook:  
 [Linear Algebra and Probability For Computer Science Applications](https://github.com/Awesalot/mathtech1180/blob/gh-pages/Ernest%20Davis%2C%20Linear%20Algebra%20and%20Probability%20for%20Computer%20Science%20Applications%2C%20CRC%20Press%2C%202012.pdf)
 
-Revision： 
+Errata:  
 [Linear Algebra and Probability For Computer Science Applications](https://github.com/Awesalot/mathtech1180/blob/gh-pages/Errata%20-%20Ernest%20Davis%2C%20Linear%20Algebra%20and%20Probability%20for%20Computer%20Science%20Applications%2C%20CRC%20Press%2C%202012.pdf)
 
 ### Class Timing and Location: 
@@ -47,23 +47,24 @@ Carl: Tuesdays and Thursdays 10:15am-12:15pm
 
 If you need to talk to Prof. Dube send him an email to set-up a zoom call  
 
-### Rubric  :
+### Rubric:  
 
  Programming Assignments (25%)  
- Problem Sets (25%) 
+ Problem Sets (25%)  
  Mid Term (20%)  
  Final Exam (20%)  
  Quizzes (10%) 
  
- Both  Programming Assignments  and Problem Sets should  submit at Gradecope.
+ Both Programming Assignments and Problem Sets should be submitted via Gradescope.
  
- More details: [Problem Sets](https://brightspace.nyu.edu/d2l/lms/news/main.d2l?ou=199679).
- [Programming Assignments](https://campuswire.com/c/G3C43F47A/feed/35)
+ More details:  
+ - [Problem Sets](https://brightspace.nyu.edu/d2l/lms/news/main.d2l?ou=199679)
+ - [Programming Assignments](https://campuswire.com/c/G3C43F47A/feed/35)
  
  
-#### Late Policy  :
+#### Late Policy:  
  
-For every day that the submission is late, 10% is deducted from the grade.
+For every day that the submission is late, 10% is deducted from the grade, i.e.,
 
 1 day late: 10% deducted
 
