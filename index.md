@@ -55,6 +55,8 @@ If you need to talk to Prof. Dube send him an email to set-up a zoom call
  Final Exam (20%)  
  Quizzes (10%) 
  
+ Both  Programming Assignments  and Problem Sets should  submit at Gradecope.
+ 
 #### Late Policy  :
  
 For every day that the submission is late, 10% is deducted from the grade.
