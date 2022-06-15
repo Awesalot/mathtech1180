@@ -19,12 +19,12 @@ First class on 05/25/2022
 
 Office Hours (Zoom links present in the Zoom tab of Brightspace):
 
-Adidev Vinaik: Fridays 5:00pm-6:00pm https://nyu.zoom.us/j/5788352107   
-Yi Yang: Mondays 12:00pm-1:00pm https://nyu.zoom.us/j/95952969730  
+Adidev Vinaik: Fridays 5:00pm-6:00pm [https://nyu.zoom.us/j/5788352107 ](https://nyu.zoom.us/j/5788352107)   
+Yi Yang: Mondays 12:00pm-1:00pm [https://nyu.zoom.us/j/95952969730](https://nyu.zoom.us/j/95952969730)  
 
 Tutoring session:
 Carl: Tuesdays and Thursdays 10:15am-12:15pm   
-- https://zoom.us/j/6129101426?pwd=SWhkeUptZnVtRDlDLzBaQ1d1MkQ3QT09  
+- [https://zoom.us/j/6129101426?pwd=SWhkeUptZnVtRDlDLzBaQ1d1MkQ3QT09](https://zoom.us/j/6129101426?pwd=SWhkeUptZnVtRDlDLzBaQ1d1MkQ3QT09)  
 - Meeting ID: 612 910 1426 Passcode: FX9bhp
 
 If you need to talk to Prof. Dube send him an email to set-up a zoom call  
