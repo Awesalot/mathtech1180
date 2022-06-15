@@ -6,7 +6,7 @@ Graders: Adidev Vinaik (<av3034@nyu.edu>) and Yi Yang (<yy3731@nyu.edu>)
 
 Tutor: Carl Ye (<jy3695@nyu.edu>)
 
-### Class Timing and Location 
+### Class Timing and Location: 
 
 Weekly Lecture: Wednesdays 6:20pm-8:50pm (In-person)  
 
@@ -29,7 +29,7 @@ Carl: Tuesdays and Thursdays 10:15am-12:15pm
 
 If you need to talk to Prof. Dube send him an email to set-up a zoom call  
 
-### Syllabus
+### Syllabus:
 
 The syllabus consists of two modules:  
 A. Linear Algebra  
