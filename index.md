@@ -1,4 +1,4 @@
-![logo](https://s.brightspace.com/course-images/images/057fc9bd-df8c-4adb-83b3-a4e5af742eec/banner-wide-high-density-min-size.jpg)
+![logo](https://camo.githubusercontent.com/98bdcb7e50f3d8f096e712963ae264261edc9a5ad2844ce69f6896b078355ef3/68747470733a2f2f732e62726967687473706163652e636f6d2f636f757273652d696d616765732f696d616765732f30353766633962642d646638632d346164622d383362332d6134653561663734326565632f62616e6e65722d776964652d686967682d64656e736974792d6d696e2d73697a652e6a7067)
 ## Math Techniques for Computer Science Applications (CSCI-GA 1180)
 An introduction to theory, computational techniques, and applications of linear algebra, probability and statistics. These three areas of continuous mathematics are critical in many parts of computer science, including machine learning, scientific computing, computer vision, computational biology, natural language processing, and computer graphics. The course teaches a specialized language for mathematical computation, such as Matlab, and discusses how the language can be used for computation and for graphical output. No prior knowledge of linear algebra, probability, or statistics is assumed.
 
