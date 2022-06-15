@@ -16,6 +16,8 @@ B. Probability and Statistics
 
 You can use the following link to view it: [Syllabus](https://brightspace.nyu.edu/content/enforced/199679-SU22_CSCI-GA_1180_12W_001/syllabus_MTCS2022-summer.pdf)
 
+Textbook:Linear Algebra and Probability For Computer Science Applications(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://brightspace.nyu.edu/content/enforced/176315-SP22_CSCI-GA_1180_1_001/Ernest%20Davis,%20Linear%20Algebra%20and%20Probability%20for%20Computer%20Science%20Applications,%20CRC%20Press,%202012.pdf)
+
 ### Class Timing and Location: 
 
 Weekly Lecture: Wednesdays 6:20pm-8:50pm (In-person)  
