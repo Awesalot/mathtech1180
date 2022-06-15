@@ -26,7 +26,7 @@ First class on 05/25/2022
 
 ### Class Communication Platform:
 
-#### Campuswire : https://campuswire.com/c/G3C43F47A/feed
+#### Campuswire : [https://campuswire.com/c/G3C43F47A/feed](https://campuswire.com/c/G3C43F47A/feed)
 
 #### Office Hours (Zoom links present in the Zoom tab of Brightspace):
 
