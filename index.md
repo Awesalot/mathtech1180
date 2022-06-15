@@ -56,6 +56,9 @@ If you need to talk to Prof. Dube send him an email to set-up a zoom call
  Quizzes (10%) 
  
  Both  Programming Assignments  and Problem Sets should  submit at Gradecope.
+ More details: [Problem Sets](https://brightspace.nyu.edu/d2l/lms/news/main.d2l?ou=199679).
+ [Programming Assignments](https://campuswire.com/c/G3C43F47A/feed/35)
+ 
  
 #### Late Policy  :
  
