@@ -7,6 +7,14 @@ Graders: Adidev Vinaik (<av3034@nyu.edu>) and Yi Yang (<yy3731@nyu.edu>)
 
 Tutor: Carl Ye (<jy3695@nyu.edu>)
 
+### Syllabus:
+
+The syllabus consists of two modules:  
+A. Linear Algebra  
+B. Probability and Statistics  
+
+You can use the following link to view it: [Syllabus](https://brightspace.nyu.edu/content/enforced/199679-SU22_CSCI-GA_1180_12W_001/syllabus_MTCS2022-summer.pdf)
+
 ### Class Timing and Location: 
 
 Weekly Lecture: Wednesdays 6:20pm-8:50pm (In-person)  
@@ -30,10 +38,4 @@ Carl: Tuesdays and Thursdays 10:15am-12:15pm
 
 If you need to talk to Prof. Dube send him an email to set-up a zoom call  
 
-### Syllabus:
 
-The syllabus consists of two modules:  
-A. Linear Algebra  
-B. Probability and Statistics  
-
-You can use the following link to view it: [Syllabus](https://brightspace.nyu.edu/content/enforced/199679-SU22_CSCI-GA_1180_12W_001/syllabus_MTCS2022-summer.pdf)
