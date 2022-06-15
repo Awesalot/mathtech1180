@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Awesalot/mathtech1180/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Course Code: CSCI-GA 1180 
+## Course Code: CSCI-GA 1180 
 
 Instructor: Parijat Dube <pd2216@nyu.edu>
 
