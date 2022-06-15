@@ -1,4 +1,4 @@
-## Course Code: CSCI-GA 1180 
+## Math Techniques for Computer Science Applications (CSCI-GA 1180)
 An introduction to theory, computational techniques, and applications of linear algebra, probability and statistics. These three areas of continuous mathematics are critical in many parts of computer science, including machine learning, scientific computing, computer vision, computational biology, natural language processing, and computer graphics. The course teaches a specialized language for mathematical computation, such as Matlab, and discusses how the language can be used for computation and for graphical output. No prior knowledge of linear algebra, probability, or statistics is assumed.
 
 Instructor: Parijat Dube (<pd2216@nyu.edu>)
@@ -45,3 +45,7 @@ If you need to talk to Prof. Dube send him an email to set-up a zoom call
  Mid Term (20%)  
  Final Exam (20%)  
  Quizzes (10%) 
+ 
+ #### Late Policy  :
+ 
+ 
