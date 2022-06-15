@@ -26,7 +26,9 @@ First class on 05/25/2022
 
 ### Class Communication Platform:
 
-Office Hours (Zoom links present in the Zoom tab of Brightspace):
+#### Campuswire : https://campuswire.com/c/G3C43F47A/feed
+
+#### Office Hours (Zoom links present in the Zoom tab of Brightspace):
 
 Adidev Vinaik: Fridays 5:00pm-6:00pm [https://nyu.zoom.us/j/5788352107 ](https://nyu.zoom.us/j/5788352107)   
 Yi Yang: Mondays 12:00pm-1:00pm [https://nyu.zoom.us/j/95952969730](https://nyu.zoom.us/j/95952969730)  
